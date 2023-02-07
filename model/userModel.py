@@ -26,3 +26,4 @@ def login(account, password):
 #     sqlstr = f"select count(*) as c from user where id=\"{userid}\""
 #     return DB.execution(DB.select, sqlstr)
 
+
